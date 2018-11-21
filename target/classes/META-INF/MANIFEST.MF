@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: omertasci
+Build-Jdk: 1.8.0_121
+Class-Path: EmailSender-0.0.1-SNAPSHOT.lib/javax.mail-1.6.2.jar EmailS
+ ender-0.0.1-SNAPSHOT.lib/activation-1.1.jar
+Main-Class: com.omertasci.javamail.SSLEmail
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+com\omertasci\javamail\TLSEmail.class
+com\omertasci\javamail\SSLEmail.class
+com\omertasci\javamail\EmailUtil.class
+com\omertasci\javamail\SSLEmail$1.class
+com\omertasci\javamail\TLSEmail$1.class
+com\omertasci\javamail\SimpleEmail.class
+com\omertasci\javamail\ConfigLoader.class
